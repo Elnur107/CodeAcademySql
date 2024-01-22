@@ -1,0 +1,5 @@
+-- Fiyatı ortalama fiyatın üstünde olan ürünler
+-- Ürünler tablosudaki satılan ürünlerin listesi
+-- Ürünler tablosudaki satılmayan ürünlerin listesi
+-- Kargo şirketlerinin taşıdıkları sipariş sayıları
+-- Sipariş Alan Çalışanları Listeleyiniz
